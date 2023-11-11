@@ -1,2 +1,2 @@
-# Tasks.
+# Tasks
 Markdown
