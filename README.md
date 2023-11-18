@@ -1,6 +1,7 @@
 # Tasks
 1、[阶段1笔记](https://githubfast.com/antidote-for-world/Tasks/tree/e63d7723ba7882920da433789bff9668fdca1e1f/%E9%98%B6%E6%AE%B51%E7%AC%94%E8%AE%B0)
-2、[阶段2笔记](https://githubfast.com/antidote-for-world/Tasks/blob/6e6e50a70b7d16300bccb22fee0244f235862cda/Markdown.md)
+
+2、[阶段2笔记]([https://githubfast.com/antidote-for-world/Tasks/blob/6e6e50a70b7d16300bccb22fee0244f235862cda/Markdown.md](https://githubfast.com/antidote-for-world/Tasks/tree/47ce26da5bf2ebf98fd56c3212dc8620671a0acd/%E9%98%B6%E6%AE%B52%E7%AC%94%E8%AE%B0))
 
 3、[阶段3笔记](https://githubfast.com/antidote-for-world/Tasks/blob/288a82707d4c80c6f8b5712d8c1ae1d64e867410/%E8%BF%9B%E9%98%B6%E4%BB%BB%E5%8A%A1.md)
 
