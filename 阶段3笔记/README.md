@@ -7,3 +7,5 @@
 [4、网页设计](https://githubfast.com/antidote-for-world/Tasks/blob/556815cb7d5f5ced31a6fb5cecd4bea66ef91787/%E9%98%B6%E6%AE%B53%E7%AC%94%E8%AE%B0/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1.md)
 
 [5、简单的主页设计](https://githubfast.com/antidote-for-world/Tasks/blob/3d3ba7db168c5a50c17c96c58f018a79f49e6d90/%E9%98%B6%E6%AE%B53%E7%AC%94%E8%AE%B0/%E7%BD%91%E9%A1%B5%E4%B8%BB%E9%A1%B5%E7%AE%80%E5%8D%95%E8%AE%BE%E8%AE%A1.md)
+
+[6、JavaScript学习笔记](https://githubfast.com/antidote-for-world/Tasks/blob/a35c4b6e2a8124c44b436a74ac4997d0d94a36a4/%E9%98%B6%E6%AE%B53%E7%AC%94%E8%AE%B0/Javascript.md)
