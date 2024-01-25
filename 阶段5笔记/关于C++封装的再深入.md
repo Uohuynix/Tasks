@@ -12,7 +12,7 @@
 
 在C++中，封装通过访问控制修饰符实现，常用的有`private`、`protected`和`public`。其中，`private`成员只能在类的内部访问，`protected`成员可以在类的内部和派生类中访问，而`public`成员可以被任何地方访问。
 
-```
+
 cppclass Student {
 private:
     int id;
@@ -35,7 +35,7 @@ public:
         return name;
     }
 };
-```
+
 
 在上述代码中，`id`和`name`是私有成员，只能通过公共的成员函数`setId`、`getId`、`setName`和`getName`来进行访问。
 
@@ -59,7 +59,7 @@ public:
 
 在进行封装时，首先需要设计一个类，明确定义类的属性和方法。属性通常设为私有，而方法则作为公共接口对外提供服务。
 
-```
+
 cppclass Rectangle {
 private:
     double length;
@@ -80,7 +80,7 @@ public:
         return length * width;
     }
 };
-```
+
 
 上述代码定义了一个`Rectangle`类，其中`length`和`width`是私有成员，而`getLength`、`getWidth`和`area`是公共成员函数。
 
@@ -88,19 +88,17 @@ public:
 
 使用封装后的类时，可以通过对象的公共接口来访问和修改对象的状态，而无需直接操作其私有成员。
 
-```
+
 cppint main() {
     Rectangle myRectangle(5.0, 3.0);
 
-    // 通过公共接口获取长度和宽度
     double length = myRectangle.getLength();
     double width = myRectangle.getWidth();
 
-    // 通过公共接口计算面积
     double area = myRectangle.area();
 
     return 0;
 }
-```
+
 
 在上述代码中，通过`getLength`、`getWidth`和`area`等公共接口，实现了对`myRectangle`对象的访问和操作。
