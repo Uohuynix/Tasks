@@ -19,16 +19,18 @@ private:
     std::string name;
 
 public:
-    void setId(int newId) {
+    
+void setId(int newId) {
         id = newId;
     }
-    int getId() const {
+    
+ int getId() const {
         return id;
     }
-    void setName(const std::string& newName) {
+ void setName(const std::string& newName) {
         name = newName;
     }
-    std::string getName() const {
+ std::string getName() const {
         return name;
     }
 };
@@ -64,13 +66,16 @@ private:
 
 public:
     Rectangle(double len, double wid) : length(len), width(wid) {}
-    double getLength() const {
+
+ double getLength() const {
         return length;
     }
-    double getWidth() const {
+
+ double getWidth() const {
         return width;
     }
-    double area() const {
+
+ double area() const {
         return length * width;
     }
 };
@@ -85,9 +90,12 @@ public:
 
 cppint main() {
     Rectangle myRectangle(5.0, 3.0);
-    double length = myRectangle.getLength();
-    double width = myRectangle.getWidth();
-    double area = myRectangle.area();
+    
+double length = myRectangle.getLength();
+
+double width = myRectangle.getWidth();
+
+double area = myRectangle.area();
     return 0;
 }
 
