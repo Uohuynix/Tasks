@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+nav {
+    height: 50px;
+    line-height: 50px;
+    background: #75b6bc;
+    font-size: 14px;
+}
+
+.navMenu {
+    padding: 0 20px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.search-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.logoBox{
+    display: flex;
+    align-items: center;
+}
+.logoBox img{
+    width: 100px;
+    margin-right: 10px;
+}
+.search-wrapper .logo {
+   text-align: center;
+   font-size: 14px;
+   font-weight: bold;
+   color: #222;
+}
+.search-wrapper .search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.search-wrapper .search input {
+    border: 2px solid #2eb9b6;
+    width: 80%;
+    height: 40px;
+    line-height: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+}
+.search-wrapper .search button {
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    background: #2eb9b6;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+    border: 2px solid #2eb9b6;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search-wrapper .search button i {
+    background: url(../images/search.svg) no-repeat left;
+    background-size: 100%;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    border: none;
+}
+
+em,
+i {
+    font-style: normal;
+}
+
+.xinxi_solution_bg {
+    background-size: 100% 400px;
+    max-width: 1920px;
+    margin: 0 auto;
+    background-color: #F7F7F7;
+}
+
+.xinxi_solution_main ul {
+    overflow: hidden;
+    height: 400px;
+}
+
+.xinxi_solution_main .main_mobile {
+    width: 100%;
+}
+
+.xinxi_solution_main ul li {
+    background: url('../images/allList1.jpg') no-repeat;
+    height: 400px;
+    float: left;
+    width: 70px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.5s;
+    background-size: cover;
+}
+
+.xinxi_solution_main ul li:nth-child(2) {
+    background: url('../images/allList2.jpg') no-repeat;
+    background-size: cover;
+
+}
+
+.xinxi_solution_main ul li:nth-child(3) {
+    background: url('../images/allList3.jpg') no-repeat;
+    background-size: cover;
+}
+
+.xinxi_solution_main ul li:nth-child(4) {
+    background: url('../images/allList4.jpg') no-repeat;
+    background-size: cover;
+}
+
+.xinxi_solution_main ul li:nth-child(5) {
+    background: url('../images/allList5.jpg') no-repeat;
+    background-size: cover;
+}
+
+.xinxi_solution_main ul li:nth-child(6) {
+    background: url('../images/allList6.jpg') no-repeat;
+    background-size: cover;
+}
+
+.xinxi_solution_main ul li:nth-child(7) {
+    background: url('../images/allList7.jpg') no-repeat;
+    background-size: cover;
+}
+
+.xinxi_solution_main ul li:nth-child(8) {
+    background: url('../images/allList8.jpg') no-repeat;
+    background-size: cover;
+}
+
+.xinxi_solution_main ul li .left_top {
+    position: absolute;
+    left: 0;
+    width: 30px;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.xinxi_solution_main ul li .left_top img {
+    width: 30px;
+}
+
+.xinxi_solution_main ul li i {
+    font-size: 24px;
+    color: #FFF;
+}
+
+.xinxi_solution_main .left_top {
+    font-size: 30px;
+    color: #FFF;
+}
+
+.xinxi_solution_main ul li .left {
+    float: left;
+    width: 70px;
+    background: #000;
+    opacity: 0.5;
+    height: 400px;
+}
+
+.xinxi_solution_main ul li.on {
+    width: 670px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 40px;
+    box-sizing: border-box;
+    border: 2px solid #75b6bc;
+    background: #f4f4f4;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.container h2 {
+    font-size: 35px;
+    text-align: center;
+    color: #75b6bc;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+.container input[type="text"],
+.container input[type="password"] {
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    font-size: 15px;
+    border-bottom: 1px solid #75b6bc;
+    outline: none;
+    color: #333;
+    box-sizing: border-box;
+}
+
