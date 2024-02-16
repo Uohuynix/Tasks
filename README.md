@@ -1,5 +1,5 @@
 # Tasks
-1、[阶段1笔记](https://github.com/antidote-for-world/Tasks/tree/e63d7723ba7882920da433789bff9668fdca1e1f/%E9%98%B6%E6%AE%B51%E7%AC%94%E8%AE%B0)
+1、[阶段1笔记](https://github.com/Uohuynix/Tasks/tree/cf47ba907f6b388f4ec5956ee34d3396633185f7/%E9%98%B6%E6%AE%B51%E7%AC%94%E8%AE%B0)
 
 2、[阶段2笔记](https://github.com/antidote-for-world/Tasks/tree/47ce26da5bf2ebf98fd56c3212dc8620671a0acd/%E9%98%B6%E6%AE%B52%E7%AC%94%E8%AE%B0)
 
