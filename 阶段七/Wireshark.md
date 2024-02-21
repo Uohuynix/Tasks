@@ -1,4 +1,4 @@
-
+https://github.com/Uohuynix/Tasks/blob/e18a9dd8d43f33f34142b229c60f26f0c908d082/%E9%98%B6%E6%AE%B5%E4%B8%83/IMG20240216140923.jpg
 
 1.安装 Wireshark：
 
