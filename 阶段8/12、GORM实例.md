@@ -18,8 +18,7 @@ var db *gorm.DB
 
 // 初始化数据库连接
 func InitDB() {
-	// 连接 SQLite 数据库，你可以根据需要选择其他数据库
-	database, err := gorm.Open(sqlite.Open("test.db"), &gorm.Config{})
+	database, err := gorm.Open(mysql.Open("test.db"), &gorm.Config{})
 	if err != nil {
 		panic("无法连接数据库")
 	}
