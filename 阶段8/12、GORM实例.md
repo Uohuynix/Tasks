@@ -36,8 +36,6 @@ func main() {
 	// 关闭数据库连接
 	defer db.Close()
 
-	// 在这里你可以执行各种数据库操作，例如创建、查询、更新、删除等
-
 	// 创建用户
 	user := User{Name: "John Doe", Email: "john@example.com"}
 	db.Create(&user)
