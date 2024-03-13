@@ -12,7 +12,7 @@
 
 5、[阶段5笔记](https://github.com/Uohuynix/Tasks/tree/6804ac9ba01ec52bff79d8406ece6f85cc1a5a4b/%E9%98%B6%E6%AE%B55%E7%AC%94%E8%AE%B0)
 
-6、[阶段6笔记]()
+6、[阶段6笔记](https://github.com/Uohuynix/Tasks/tree/6eddc0e197057db2d9eb35d3d3cd0022a5c80ad9/%E9%98%B6%E6%AE%B56%E7%AC%94%E8%AE%B0)
 
 7、[阶段7笔记]()
 
