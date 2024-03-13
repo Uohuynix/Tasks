@@ -1,4 +1,8 @@
 # Tasks
+这里是对于考核任务的深入学习以及探索内容，包括对于日常生活中的奇思妙想，个人总结，希望自己在计科这条路上愈行愈远。
+[Mind]()
+
+
 1、[阶段1笔记](https://github.com/Uohuynix/Tasks/tree/cf47ba907f6b388f4ec5956ee34d3396633185f7/%E9%98%B6%E6%AE%B51%E7%AC%94%E8%AE%B0)
 
 2、[阶段2笔记](https://github.com/Uohuynix/Tasks/tree/47ce26da5bf2ebf98fd56c3212dc8620671a0acd/%E9%98%B6%E6%AE%B52%E7%AC%94%E8%AE%B0)
